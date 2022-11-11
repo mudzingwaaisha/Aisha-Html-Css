@@ -1,0 +1,242 @@
+*{
+    margin: 0;
+    padding: 0;
+   box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.menu{
+   background-image: url(img/bg-masthead.jpg);
+ align-items: center;
+ display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100vh;
+  background-position: center left;
+  
+
+}
+
+h1{
+    font-weight: bold;
+    font-size: 50px;
+font-size: 50px;
+}
+
+
+
+
+
+.menu button{
+    height: 50px;
+    background-color: rgb(0, 129, 162);
+    color: white;
+    border: none;
+    width: 140px;
+    border-radius: 4px;
+    
+    
+}
+
+.text{
+    align-items: center;
+    display: flex;
+     flex-direction: column;
+     justify-content: center;
+     text-align: right;
+     height: 50vh; 
+font-size: 45px;
+    
+}
+
+h2{
+    padding-bottom: 10px;
+}
+
+.text p{
+    color: lightgrey;
+    font-size: 15px;
+}
+
+.text button{
+    height: 50px;
+    background-color: rgb(51, 58, 64);
+    color: white;
+   border: none;
+   width: 140px;
+   border-radius: 4px;
+}
+
+
+
+
+
+
+
+
+
+
+
+.class{
+    background-image: url(img/bg-callout.jpg);
+    align-items: center;
+    display: flex;
+     flex-direction: column;
+     justify-content: center;
+     height: 100vh;
+background-position: center left;
+    
+}
+
+.class button{
+    height: 40px;
+    background-color: rgb(0, 129, 162);
+    color: white;
+    border: none;
+    width: 120px;
+    border-radius: 4px;
+}
+
+.portfolio{
+    align-items: center;
+    display: flex;
+     flex-direction: column;
+     justify-content: center; 
+     height: 20vh; 
+}
+
+.portfolio p{
+    color: rgb(234, 177, 0);
+    font-size: 10px;  
+}
+
+.image1{
+    align-items: center;
+    display: flex;
+     flex-direction: row;
+     justify-content: center;
+     color: white; 
+}
+
+
+.image1 p{
+    align-items: flex-end;
+    height: 250px;
+        display: flex;
+         flex-direction: row;
+         flex: 200px;
+         justify-content: center; 
+         
+    }
+
+.image2{
+    align-items: center;
+    display: flex;
+     flex-direction: row;
+     justify-content: center;
+     color: white; 
+}
+
+.image2 p{
+    align-items: flex-end;
+    height: 250px;
+        display: flex;
+         flex-direction: row;
+         flex: 200px;
+         justify-content: center;  
+}
+
+.pic{
+    background-image: url(img/portfolio-1.jpg);
+     height: auto; 
+     width: 30%; 
+     padding: 40px 30px;
+     background-position: center right;
+}
+
+.pics{
+    background-image: url(img/portfolio-2.jpg);
+     width: 30%;
+     height: auto;
+     padding: 40px 30px;
+     background-position: center left;
+}
+
+
+
+
+
+.up{
+    background-image: url(img/portfolio-3.jpg);
+     height: auto; 
+     width: 30%;
+     padding: 40px 30px;
+     background-position: center right;
+   
+}
+
+.down{
+    background-image: url(img/portfolio-4.jpg);
+     height: auto; 
+     width: 30%; 
+     padding: 40px 30px;
+     background-position: center right;
+     
+}
+
+
+.white{
+    align-items: center;
+    display: flex;
+     flex-direction: row;
+     justify-content: center; 
+      
+     
+}
+.color{
+    color: white;
+    padding: 40px;
+}
+
+.green{
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;  
+    
+}
+
+.blue button{
+    height: 40px;
+    background-color: white;
+    border: none;
+    width: 120px; 
+
+}
+
+.red button{
+    height: 40px;
+    background-color: rgb(51, 58, 64);
+    border: none;
+    width: 120px;
+    color: white; 
+    
+}
+
+/* .be{
+    margin-bottom: 30px;
+    background-color: rgb(0, 129, 162);  
+    height: 40vh; 
+    padding: 40px;
+} */
+
+.map{
+     background-image: url(img/map.jpeg);
+    width: 100%; 
+height: 80vh;
+
+}
+
+
+
+
